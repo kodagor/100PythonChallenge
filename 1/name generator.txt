@@ -1,0 +1,8 @@
+Zadanie 0 - Name Generator - czyli generator imion.
+Najpierw nale¿y zaimportowaæ modu³ random.
+Najprostszy sposób wykonania tego zadania, to zbudowanie listy imion i drugiej listy nazwisk .
+A nastêpnie losowe wybranie imienia oraz nazwiska.
+Wersja ciut trudniejsza - mo¿na zbudowaæ listy imion i nazwisk damskich i mêskich, 
+a nastêpnie poprosiæ u¿ytkownika o zdecydowanie czy ma to byæ imiê i nazwisko damskie czy mêskie. 
+Do tego stosujemy instrukcje warunkowe if / elif.
+Oczywiœcie to tylko propozycja.
