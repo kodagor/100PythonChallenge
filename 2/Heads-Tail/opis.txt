@@ -1,0 +1,4 @@
+HeadsTails - orze³ czy reszka - komputer oblicza prawdopodobieñstwo 
+wypadniêcia or³a np. w 100 rzutach i sprawdza, czy jest to zgodne z 
+naszym przewidywaniem (czy zgadliœmy ile razy wypadnie np.orze³).
+Oczywiœcie to s¹ tylko sugestie. 

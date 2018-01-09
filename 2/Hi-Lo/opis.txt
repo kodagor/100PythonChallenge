@@ -1,0 +1,3 @@
+HigherLower - gra, w której u¿ytkownik zgaduje liczbê, a komputer mu podpowiada, 
+czy liczba jest wiêksza od podanej czy mniejsza. Okreœlamy w jakim przedziale ma 
+byæ ta liczba i ile rund ma toczyæ siê gra.
