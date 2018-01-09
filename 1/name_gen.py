@@ -7,9 +7,9 @@ w zależności od wyboru użytkownika
 import random
 
 
-male_names = ["Jan","Paweł","Adolf","Herman","Alojzy","Geralt","Frodo"]
+male_names = ["Frodo","Paweł","Gandalf","Herman","Alojzy","Geralt","Frodo"]
 female_names = ["Ewa","Helga","Brugge","Wojna","Zofia","Renata","Adda"]
-last_names = ["Hitler","Goring","Braun","Wojtyła","Grucha","Kutas","Polak"]
+last_names = ["Piwko","Goring","Braun","Wojtyła","Grucha","Plemnik","Polak"]
 
 print("Program generuje losowa nazwe z listy imion i nazwisk (q aby zakończyć). \nWybierz płeć: ")
 while True:
