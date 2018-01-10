@@ -1,0 +1,6 @@
+Konwersja temperatury.
+Aplikacja bêdzie pyta³a u¿ytkownika o podanie temperatury w:
+ - celsjuszach
+ - farenhaitach --- °F = (°C × 1.8) + 32
+ - kelvinach ---  °K = °C + 273.15
+Nastêpnie bêdzie podawaæ j¹ w wybranym formacie.
