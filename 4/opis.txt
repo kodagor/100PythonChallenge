@@ -1,0 +1,3 @@
+Zadanie 4: Age in Seconds - oblicz swój wiek w sekundach.
+Tu przydatne bêdzie zaimportowanie date z modu³u datetime.
+Pewnym utrudnieniem (chyba) jest poproszenie, aby u¿ytkownik wpisa³ date swoich urodzin.
