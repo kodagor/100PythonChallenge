@@ -29,7 +29,7 @@ while True:
         print("Orzeł wypadł: " + str(head_num) +  " razy, a reszka: "
               + str(tail_num) + " razy.")
 		
-		# wyjście z gry
+	# wyjście z gry
         check = input("\nJeszcze raz? (t/n) ")
         if check != 't':
                 print("Koniec")
